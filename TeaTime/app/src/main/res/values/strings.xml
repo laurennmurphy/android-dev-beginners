@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tea Time</string>
+    <string name="tea_time">Tea Time</string>
+    <string name="cafe_description">Tea Time is a cafe spot for tea lovers who want to enjoy a cup of tea in a relaxing environment surrounded by the soothing aroma of loose tea leaves.</string>
+    <string name="phone_number">Phone: 212-555-8923</string>
+    <string name="store_address">555 Bleecker Street, New York, NY 10012</string>
+    <string name="tea_cup_image">tea cup image</string>
+    <string name="img_desc">two cups of loose leaf tea</string>
+</resources>
